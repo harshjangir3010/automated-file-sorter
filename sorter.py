@@ -3,8 +3,8 @@ import shutil                   # It helps us to move, copy, delete files
 import logging                  # new import for logging
 import json                     
 import time                     # wait/sleep
-from watchdog.observers import Observer             # CCTV camera 👁️
-from watchdog.events import FileSystemEventHandler  # receptionist 👩
+from watchdog.observers import Observer             # CCTV camera
+from watchdog.events import FileSystemEventHandler  # receptionist 
 
 # ─────────────────────────────
 # Setup the logger
