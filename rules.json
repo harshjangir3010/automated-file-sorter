@@ -1,0 +1,14 @@
+{
+    ".txt"  : "TextFiles",
+    ".jpg"  : "Images",
+    ".png"  : "Images",
+    ".pdf"  : "PDFs",
+    ".zip"  : "ZIPs",
+    ".mp3"  : "Music",
+    ".jpeg" : "Images",
+    ".csv"  : "CSVs",
+    ".docx" : "WordFiles",
+    ".xlsx" : "Spreadsheets",
+    ".mp4"  : "Videos",
+    ".py"   : "PythonFiles"
+}

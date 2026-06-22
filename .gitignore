@@ -1,0 +1,16 @@
+# ignore log files
+sorter.log
+
+# ignore test folders
+TestSorter/
+Images/
+PDFs/
+TextFiles/
+ZIPs/
+Music/
+Videos/
+PythonFiles/
+
+# ignore Python cache
+__pycache__/
+*.pyc
